@@ -1,6 +1,6 @@
 # [Admin Dashboards - Material Design](https://dev.to/sm0ke/admin-dashboards-material-design-ui-kits-and-apps-4cko)
 
-> A curataed list with free, open-source UI Kits built on top of **Material Design** pattern, originaly published on Dev.to - Content provided by [AppSeed](https://appseed.us).
+> A curated list with free, open-source UI Kits built on top of **Material Design** pattern, originaly published on Dev.to - Content provided by [AppSeed](https://appseed.us).
 
 <br />
 
