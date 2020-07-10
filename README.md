@@ -1,6 +1,6 @@
 # [Admin Dashboards - Material Design](https://dev.to/sm0ke/admin-dashboards-material-design-ui-kits-and-apps-4cko)
 
-> This article presents a short-list with free, open-source UI Kits and web apps built/coded on top of Material Design pattern. Originaly published on Dev.to.
+> This article presents a short-list with free, open-source UI Kits and web apps built/coded on top of Material Design pattern, originaly published on Dev.to - Content provided by [AppSeed](https://appseed.us).
 
 <br />
 
