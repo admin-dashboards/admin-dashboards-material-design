@@ -1,6 +1,6 @@
 # [Admin Dashboards - Material Design](https://dev.to/sm0ke/admin-dashboards-material-design-ui-kits-and-apps-4cko)
 
-> This article presents a short-list with free, open-source UI Kits and web apps built/coded on top of Material Design pattern, originaly published on Dev.to - Content provided by [AppSeed](https://appseed.us).
+> A curataed list with free, open-source UI Kits built on top of **Material Design** pattern, originaly published on Dev.to - Content provided by [AppSeed](https://appseed.us).
 
 <br />
 
@@ -13,6 +13,18 @@
 - [Material Dashboard](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) - Creative-Tim
 - [AdminLTE](https://adminlte.io/) - by ColorLib
 - [Modular Admin](https://modularcode.io/modular-admin-html/?ref=appseed) by ModularCode
+
+<br />
+
+## What is [Material Design](https://material.io/)
+
+**Material Design** is a design language developed by Google which, at its core, is an extremely sophisticated and well-defined set of guidelines to help both designers and end-users replicate Google’s work as well as explain why things in Google look and respond the way they do - Definition provided by **Enginess.io**
+
+> Links
+
+- [Material Design](https://material.io/) - the official website
+- [Material Design](https://en.wikipedia.org/wiki/Material_Design) - Wikipedia page
+- [What is material design](https://www.enginess.io/insights/design-trend-material-design) - a comprehensive article about this design system
 
 <br />
 
