@@ -78,7 +78,7 @@ When it comes to performance, Material Able rendering is fast in all major brows
 
 <br />
 
-![Material Design - Material Admin by BootstrapDash.](https://raw.githubusercontent.com/admin-dashboards/admin-dashboards-material-design/master/media/bootstrapdash-material-admin-intro.gif)
+![Material Design - Material Admin by BootstrapDash.](https://raw.githubusercontent.com/admin-dashboards/admin-dashboards-material-design/master/media/bootstrapdash-material-admin-screen-charts.png)
 
 <br />
 
