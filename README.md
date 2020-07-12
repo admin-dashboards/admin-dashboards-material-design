@@ -6,11 +6,12 @@
 
 ## Material Dashboards - the short-list
 
-> The short index for fast runners 
+> The short index for fast runners
 
+- [Material Dashboard](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) - Creative-Tim
+- [Material Able](https://codedthemes.com/item/material-able-free-admin-template/?ref=appseed) - CodedThemes
 - [Material Admin](https://www.bootstrapdash.com/product/material-design-template-free/?ref=23) - BootstrapDash
 - [CoreUI Admin](https://coreui.io/?ref=appseed) - CoreUI Agency
-- [Material Dashboard](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) - Creative-Tim
 - [AdminLTE](https://adminlte.io/) - by ColorLib
 - [Modular Admin](https://modularcode.io/modular-admin-html/?ref=appseed) by ModularCode
 
@@ -28,9 +29,45 @@
 
 <br />
 
+## [Material Dashboard](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) - Creative-Tim
+
+*Vendor Notes* - **[Material Dashboard](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200)** is a free Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. Material Dashboard was built over the popular Bootstrap 4 framework and it comes with a couple of third-party plugins redesigned to fit in with the rest of the elements.
+
+<br />
+
+> Design Links
+
+- [Material Dashboard Demo](https://demos.creative-tim.com/material-dashboard/examples/dashboard.html)
+- [Material Dashboard Sources](https://github.com/creativetimofficial/material-dashboard) - MIT License, available on Github
+
+<br />
+
+![Material Design - Material Dashboard Free by Creative-Tim.](https://raw.githubusercontent.com/admin-dashboards/admin-dashboards-material-design/master/media/creativetim-material-dashboard-screen.png)
+
+<br />
+
+## [Material Able](https://codedthemes.com/item/material-able-free-admin-template/?ref=appseed)
+
+Material Able Bootstrap Free is the most stylised Bootstrap 4 Free Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer centric code. Before developing Material Able our key points were performance and design. While developing we have gone through various testing & code optimization process, for making this performance and design-centric backend application.
+
+When it comes to performance, Material Able rendering is fast in all major browser. It is passed through a good score in Google Page Speed, Pingdom, gtMetrix. Code is passed via w3 validators with all w3 standards. This admin panel is fully responsive and tested in all retina devices. Material Able provides multiple choices of widget, chart icons and many more features support. All come’s with a color combination of pleasant look and feel.
+
+<br />
+
+> Design Links
+
+- [Material Able](https://codedthemes.com/item/material-able-free-admin-template/?ref=appseed)
+- [Material Able Demo](http://lite.codedthemes.com/material-able/?ref=appseed)
+
+<br />
+
+![Material Able - Material Dashboard Free by CodedThemes.](https://raw.githubusercontent.com/admin-dashboards/admin-dashboards-material-design/master/media/codedthemes-material-able-screen.png)
+
+<br />
+
 ## [Material Admin](https://www.bootstrapdash.com/product/material-design-template-free/?ref=23) - BootstrapDash
 
-*Vendor Notes* - Material Admin is a free admin template designed based on Google’s Material Design framework. It contains multiple in-built layouts, which makes it possible to create pages in a different layout in just a matter of minutes. It comes with the basic components and set of pre-built pages required to lay the foundation for any application. 
+*Vendor Notes* - Material Admin is a free admin template designed based on Google’s Material Design framework. It contains multiple in-built layouts, which makes it possible to create pages in a different layout in just a matter of minutes. It comes with the basic components and set of pre-built pages required to lay the foundation for any application.
 
 <br />
 
@@ -49,11 +86,11 @@
 
 CoreUi, with more than 10k Github stars, is a popular admin dashboard design, actively supported by the mother agency. 
 
-*Vendor Notes* - CoreUI admin dashboard delivers a bunch of responsive, customizable, and reusable components you need to create modern, beautiful, responsive apps. CoreUI makes app development lightning fast. 
+*Vendor Notes* - CoreUI admin dashboard delivers a bunch of responsive, customizable, and reusable components you need to create modern, beautiful, responsive apps. CoreUI makes app development lightning fast.
 
 <br />
 
-> Design Links 
+> Design Links
 
 - [CoreUI Demo](https://coreui.io/demo/3.1.0/#main.html) 
 - [CoreUI Source Code](https://github.com/coreui/coreui-free-bootstrap-admin-template) - published on Github
@@ -64,22 +101,6 @@ CoreUi, with more than 10k Github stars, is a popular admin dashboard design, ac
 
 <br />
 
-## [Material Dashboard](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) - Creative-Tim
-
-*Vendor Notes* - Material Dashboard is a free Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. Material Dashboard was built over the popular Bootstrap 4 framework and it comes with a couple of third-party plugins redesigned to fit in with the rest of the elements.
-
-<br />
-
-> Design Links
-
-- [Material Dashboard Demo](https://demos.creative-tim.com/material-dashboard/examples/dashboard.html)
-- [Material Dashboard Sources](https://github.com/creativetimofficial/material-dashboard) - MIT License, available on Github
-
-<br />
-
-![Material Design - Material Dashboard Free by Creative-Tim.](https://raw.githubusercontent.com/admin-dashboards/admin-dashboards-material-design/master/media/creativetim-material-dashboard-screen.png)
-
-<br />
 
 ## [AdminLTE](https://adminlte.io/) - by ColorLib
 
